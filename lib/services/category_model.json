@@ -1,0 +1,37 @@
+{
+    "categories":[
+        {
+            "name":"Mens Party Wear",
+            "subcategory":[
+                "Traditionals",
+                "Suits",
+                "Shirts"
+            ]
+          
+        },
+        {
+            "name":"Bridal Wear",
+            "subcategory":[
+                "Lehangas",
+                "Sarees",
+                "Gowns"
+            ]
+        },
+        {
+            "name":"Grooms Attire",
+            "subcategory":[
+                "Traditionals",
+                "Suits",
+                "Dotis"
+            ]
+        },
+        {
+            "name":"Womens Party Wear",
+            "subcategory":[
+                "Traditionals",
+                "Gowns",
+                "Ethnic wears"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>600446626433-lfde80g9f2ht6kuta8il32qnhbp4t639.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.600446626433-lfde80g9f2ht6kuta8il32qnhbp4t639</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8Gd_vVXCDBk-20c6JLzsS7zdCFmAYx7c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>600446626433</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.enchantAttireAdmin</string>
+	<key>PROJECT_ID</key>
+	<string>enchant-attire-575de</string>
+	<key>STORAGE_BUCKET</key>
+	<string>enchant-attire-575de.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:600446626433:ios:741471abddb638a17cbb80</string>
+</dict>
+</plist>

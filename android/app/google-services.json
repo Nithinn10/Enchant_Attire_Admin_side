@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "600446626433",
+    "project_id": "enchant-attire-575de",
+    "storage_bucket": "enchant-attire-575de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600446626433:android:e64a1c5e170239637cbb80",
+        "android_client_info": {
+          "package_name": "com.example.enchant_attire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600446626433-66micl6u94iu7ld7lm35cbg1aoe4sf8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5UCpz82U-ksm-afFxMP_P-FuFpZRLJzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600446626433-66micl6u94iu7ld7lm35cbg1aoe4sf8u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600446626433-lfde80g9f2ht6kuta8il32qnhbp4t639.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.enchantAttireAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600446626433:android:2a49f3857be23c8a7cbb80",
+        "android_client_info": {
+          "package_name": "com.example.enchant_attire_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600446626433-875t9gg7a3p3cd4o20e702spqdc34atb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enchant_attire_admin",
+            "certificate_hash": "0a14524707d94d4f3694e92cb84555810bfa3d66"
+          }
+        },
+        {
+          "client_id": "600446626433-66micl6u94iu7ld7lm35cbg1aoe4sf8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5UCpz82U-ksm-afFxMP_P-FuFpZRLJzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600446626433-66micl6u94iu7ld7lm35cbg1aoe4sf8u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600446626433-lfde80g9f2ht6kuta8il32qnhbp4t639.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.enchantAttireAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
