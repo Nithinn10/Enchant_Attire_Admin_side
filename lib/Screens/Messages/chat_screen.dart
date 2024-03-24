@@ -13,7 +13,7 @@ class ChatScreen extends StatelessWidget {
       body:Column(
         children: [
           Expanded(child: Container(
-            color: Colors.teal,
+            color: Colors.greenAccent,
           )),
 
         ],
