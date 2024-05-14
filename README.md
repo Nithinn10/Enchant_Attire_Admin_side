@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
+For admin login username = admin@gmail.com and password = adimn@123
 ## Getting Started
 
 This project is a starting point for a Flutter application.
